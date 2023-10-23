@@ -1,0 +1,64 @@
+﻿# Compiled Object files
+*.slo
+*.lo
+*.o
+*.pdb
+*.exp
+*.idb
+*.ipdb
+*.iobj
+*.ilk
+*.obj
+*.log
+*.tlog
+*.cki
+*.exe.config
+
+*.vcproj
+*.vcproj.*
+
+# Compiled executable files
+
+# Compiled Dynamic libraries
+#*.so
+#*.dylib
+
+# Compiled Static libraries
+#*.lai
+#*.la
+#*.a
+
+# Intermediate directorys
+Static/
+static/
+Debug/
+debug/
+Obj/
+obj/
+tlog/
+log/
+readme/
+netstandard2.0/
+
+# IDE Internal Files
+*.xml
+*.layout
+*.sdf
+*.opensdf
+*.VC.db
+*.opendb
+*.aps
+*.swp
+*.suo
+.vs/
+ipch/
+VSMacros80/
+.VSCodeCounter/
+.vscode/
+
+
+./vscode
+./vscode/*    
+
+# symbolic link files
+Linux/lib/**/*.so.*
