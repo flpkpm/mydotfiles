@@ -55,10 +55,12 @@ ipch/
 VSMacros80/
 .VSCodeCounter/
 .vscode/
-
-
-./vscode
-./vscode/*    
+.vscode/*
+ 
+tmp/
+*.vcxproj
+*.vcxproj.*
+*.rar
 
 # symbolic link files
 Linux/lib/**/*.so.*
