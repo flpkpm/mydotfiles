@@ -1,5 +1,8 @@
 [core]
     ui = true
-    autocrtf = true
+    autocrtf = false
+[user]
+    email = flpkpm@163.com
+    name = deken
 [color]
     ui = true
